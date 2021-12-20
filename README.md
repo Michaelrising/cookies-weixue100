@@ -11,8 +11,8 @@ The valid cookies for weixue100, only for one week.
 #### (If hv no access to Google)
 ##### 1.1 Download the zip file "chromeFOR.COM_editthiscookie_win 2.zip" and unzip it 
 ##### 1.2 Open Google Chrome and open the extension page: chrome://extensions/
-##### 1.3 Tick "Developer mode" in the top right of the chrome.
-##### 1.4 Drag the unzip file "chromeFOR.COM_editthiscookie_win" into the formal chrome extension page
+##### 1.3 Tick "Developer mode" in the top right of the chrome extension page.
+##### 1.4 Drag the unzipped file "chromeFOR.COM_editthiscookie_win" into the forementioned chrome extension page
 ##### 1.5 Check the extension "Editthiscookies" installed or not
 
 ### 2. Import Cookies
