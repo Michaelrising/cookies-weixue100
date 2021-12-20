@@ -5,10 +5,10 @@ The valid cookies for weixue100, only for one week.
 
 ### 1. Install extensions
 
-#### $\b{If hv access to Google}$
+### If hv access to Google
 ##### https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=zh-CN Download and install through google extensions store
 
-#### $\b{If hv no access to Google}$
+### If hv no access to Google
 ##### 1.1 Download the zip file "chromeFOR.COM_editthiscookie_win 2.zip" and unzip it 
 ##### 1.2 Open Google Chrome and open the extension page: chrome://extensions/
 ##### 1.3 Tick "Developer mode" in the top right of the chrome extension page.
